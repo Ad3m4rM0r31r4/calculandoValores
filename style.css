@@ -1,0 +1,24 @@
+body {
+    color: rgb(98, 205, 205);
+    background: linear-gradient(90deg, rgba(77, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 38%, rgba(0, 0, 0, 1) 50%, rgba(15, 1, 1, 1) 62%, rgba(77, 0, 0, 1) 100%);
+    font: normal 26pt Arial;
+    text-align: center;
+}
+
+strong {
+    color: rgb(3, 85, 85);
+    text-shadow: 0 0 10px rgb(0, 255, 255),
+        0 0 20px rgb(0, 255, 255),
+        0 0 40px rgb(0, 255, 255),
+        0 0 80px rgb(0, 255, 255),
+        0 0 120px rgb(0, 255, 255),
+        0 0 160px rgb(0, 255, 255);
+}
+
+input {
+    color: rgba(77, 0, 0, 1);
+    width: 250px;
+    height: 28px;
+    border-radius: 10px;
+    border: 3px solid #55c9ec;
+}
